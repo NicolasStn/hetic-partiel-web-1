@@ -1365,6 +1365,12 @@ table a,
 		max-width: none;
 		text-align: left;
 	}
+	#pagesintro p {
+		text-align: center;
+	}
+	#pagesintro h3 {
+		text-align: center;
+	}
 	#pageintro .heading {
 		font-size: 2rem;
 	}
